@@ -1,0 +1,53 @@
+name,bus,control,p_nom,p_set,carrier,min_up_time,min_down_time,up_time_before,down_time_before
+Apsuwa I HEP,Arun_400,PV,23,23,Hydro,0,0,1,0
+Chujung Khola HEP,U_Arun_400,PV,48,48,Hydro,0,0,1,0
+Dudhkoshi 10 HEP,Dudhkoshi_4_400,PV,75,75,Hydro,0,0,1,0
+Dudhkoshi-6 HEP,Dudhkoshi_4_400,PV,83,83,Hydro,0,0,1,0
+Ghunsa Khola HPP,Tamor_220,PV,71.5,71.5,Hydro,0,0,1,0
+Ghunsa-Tamor HPP,Tamor_220,PV,43,43,Hydro,0,0,1,0
+Hongu Khola HPP,Inkhu_132,PV,21.87,21.87,Hydro,0,0,1,0
+Ikhuwa Khola HEP,U_Arun_400,PV,30,30,Hydro,0,0,1,0
+Isuwa Khola Hydropower Project,Arun_400,PV,97.2,97.2,Hydro,0,0,1,0
+Kabeli B - 1,Kabeli_132,PV,25,25,Hydro,0,0,1,0
+Kabeli-3 HEP,Kabeli_132,PV,21.93,21.93,Hydro,0,0,1,0
+Kabeli-A,Pinaseghat_LILO_132,PV,37.6,37.6,Hydro,0,0,1,0
+Kasuwa Khola HPP,U_Arun_400,PV,45,45,Hydro,0,0,1,0
+Lower Hewa,Phidim_132,PV,21.6,21.6,Hydro,0,0,1,0
+Lower Isuwa Khola HPP,Arun_400,PV,37.7,37.7,Hydro,0,0,1,0
+Lower Solu Hydropower Project,Tingla_400,PV,82,82,Hydro,0,0,1,0
+Luja Khola HPP,Dudhkoshi_4_400,PV,24.8,24.8,Hydro,0,0,1,0
+Mewa khola HPP,Mewa_400,PV,23,23,Hydro,0,0,1,0
+Mewa Khola Hydropower project,Hangpang_400,PV,50,50,Hydro,0,0,1,0
+Middle Hongu Khola B HPP,Inkhu_132,PV,22.9,22.9,Hydro,0,0,1,0
+Middle Hongukhola A Hydropower Project,Inkhu_132,PV,22,22,Hydro,0,0,1,0
+Middle Mewa HPP,Mewa_400,PV,49,49,Hydro,0,0,1,0
+Middle Tamor,Hangpang_400,PV,54,54,Hydro,0,0,1,0
+Palun khola small Hydropower Project,Mewa_400,PV,21,21,Hydro,0,0,1,0
+Simbuwa Khola Hydroelectric Project,Tamor_220,PV,53.7,53.7,Hydro,0,0,1,0
+Solu Hydropower Project,Tingla_400,PV,23.5,23.5,Hydro,0,0,1,0
+Solu Khola (Dudha Koshi),Tingla_400,PV,86,86,Hydro,0,0,1,0
+Super Inkhu Khola,Dudhkoshi_4_400,PV,22.12,22.12,Hydro,0,0,1,0
+Tamor Khola-5 HEP,Tamor_220,PV,40,40,Hydro,0,0,1,0
+Upper Apsuwa HEP,Arun_400,PV,24.6,24.6,Hydro,0,0,1,0
+Upper Barunkhola HEP,U_Arun_400,PV,55,55,Hydro,0,0,1,0
+Upper Inkhu Khola HEP,Dudhkoshi_4_400,PV,24.22,24.22,Hydro,0,0,1,0
+Upper Isuwa,Arun_400,PV,24.3,24.3,Hydro,0,0,1,0
+Upper Kabeli HPP,Kabeli_132,PV,22.9,22.9,Hydro,0,0,1,0
+Upper Mewa Khola -A HPP,Mewa_400,PV,28.22,28.22,Hydro,0,0,1,0
+Upper Sankhuwa Khola HEP,Sitalpati_220,PV,24,24,Hydro,0,0,1,0
+Upper Simbuwa Khola HPP,Tamor_220,PV,46.81,46.81,Hydro,0,0,1,0
+Upper Tamor A HPP,Tamor_220,PV,72,72,Hydro,0,0,1,0
+Upper Tamor HEP,Tamor_220,PV,32.5,32.5,Hydro,0,0,1,0
+Aayu Malun Khola Hydro-Electric Project,Okhaldunga_132,PV,21,21,Hydro,0,0,1,0
+solar_bhadrapur,Bhadrapur_132,PV,24.70781539,24.70781539,Solar,0,0,1,0
+solar_kataiya,Inaruwa_400,PV,20.547,20.547,Solar,0,0,1,0
+solar_morang,Duhabi_132,PV,21.114,21.114,Solar,0,0,1,0
+solar_jhapa,Damak_400,PV,25.43582139,25.43582139,Solar,0,0,1,0
+solar_anarmani,Anarmani_132,PV,37.557,37.557,Solar,0,0,1,0
+solar_koshitappu2,Inaruwa_400,PV,46.062,46.062,Solar,0,0,1,0
+solar_koshitappu1,Inaruwa_400,PV,25.99933999,25.99933999,Solar,0,0,1,0
+solar_urlabari,Damak_400,PV,35.964,35.964,Solar,0,0,1,0
+solar_udaypur2,Lahan_132,PV,29.673,29.673,Solar,0,0,1,0
+solar_udaypur1,Lahan_132,PV,33.642,33.642,Solar,0,0,1,0
+solar_basantapur,Basantapur_220,PV,39.906,39.906,Solar,0,0,1,0
+solar_tingla,Tingla_400,PV,22.302,22.302,Solar,0,0,1,0

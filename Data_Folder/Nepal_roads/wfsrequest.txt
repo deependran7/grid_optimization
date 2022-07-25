@@ -1,0 +1,1 @@
+https://maps-data.nrel.gov/ows?outputFormat=SHAPE-ZIP&propertyName=name%2Cthe_geom_4326&request=GetFeature&service=WFS&typeName=rede%3Agstk_nepal_43_roads&version=1.0.0
