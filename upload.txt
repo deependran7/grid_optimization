@@ -1,0 +1,4 @@
+git add .
+git commit -m "hello diff"
+git remote set-url origin https://github.com/deependran7/grid_optimization.git
+git push -u origin main
