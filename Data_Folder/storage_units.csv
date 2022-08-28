@@ -1,0 +1,2 @@
+name,bus,p_nom,carrier,marginal_cost,max_hours,efficiency_store,efficiency_dispatch
+Pump Storage,Damak_132,100,Pumped Hydro,30,6,0.95,0.95
