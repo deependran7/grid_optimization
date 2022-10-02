@@ -1,9 +1,9 @@
 name,bus0,bus1,model,x,r,s_nom
-Arun_ss,Arun_400,Arun_220,t,0.0022,0.0001,200
-Damak_ss,Damak_400,Damak_132,t,0.0011,0.0001,200
-Hangpang_ss1,Hangpang_220,Hangpang_132,t,0.0001,0.0001,200
-Hangpang_ss2,Hangpang_400,Hangpang_220,t,0.0022,0.0001,200
-Inaruwa_ss1,Inaruwa_220,Inaruwa_132,t,0.0001,0.0001,200
-Inaruwa_ss2,Inaruwa_400,Inaruwa_220,t,0.0022,0.0001,200
-Mirchiya_ss,Mirchiya_400,Mirchiya_132,t,0.0022,0.0001,200
-Tingla_ss,Tingla_400,Tingla_132,t,0.0022,0.0001,200
+Arun_ss,Arun_400,Arun_220,t,0.0022,0.0001,1000
+Damak_ss,Damak_400,Damak_132,t,0.0022,0.0001,1000
+Hangpang_ss1,Hangpang_220,Hangpang_132,t,0.0021,0.0001,1000
+Hangpang_ss2,Hangpang_400,Hangpang_220,t,0.0022,0.0001,1000
+Inaruwa_ss1,Inaruwa_220,Inaruwa_132,t,0.0022,0.0001,1000
+Inaruwa_ss2,Inaruwa_400,Inaruwa_220,t,0.0022,0.0001,1000
+Mirchiya_ss,Mirchiya_400,Mirchiya_132,t,0.0022,0.0001,1000
+Tingla_ss,Tingla_400,Tingla_132,t,0.0044,0.0022,1000
