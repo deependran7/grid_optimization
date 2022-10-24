@@ -1,0 +1,60 @@
+Generation  0
+Best Cost 1900215701.157061
+Generation  1
+Best Cost 1854546450.95194
+Generation  2
+Best Cost 1799669443.168235
+Generation  3
+Best Cost 1799669443.168235
+Generation  4
+Best Cost 1773136114.773381
+Generation  5
+Best Cost 1577806834.4071507
+Generation  6
+Best Cost 1577806834.4071507
+Generation  7
+Best Cost 1508243088.216387
+Generation  8
+Best Cost 1334994302.0131001
+Generation  9
+Best Cost 1334994302.0131001
+Generation  10
+Best Cost 1302333358.0521734
+Generation  11
+Best Cost 1302333358.0521734
+Generation  12
+Best Cost 1225111145.8241017
+Generation  13
+Best Cost 1124009727.3263118
+Generation  14
+Best Cost 1124009727.3263118
+Generation  15
+Best Cost 1088248062.4708033
+Generation  16
+Best Cost 1088248062.4708033
+Generation  17
+Best Cost 1088248062.4708033
+Generation  18
+Best Cost 1087625421.2801335
+Generation  19
+Best Cost 1062615958.7559595
+Generation  20
+Best Cost 1062615958.7559595
+Generation  21
+Best Cost 1060735549.6563952
+Generation  22
+Best Cost 1048667298.195763
+Generation  23
+Best Cost 1043283405.6228198
+Generation  24
+Best Cost 1043283405.6228198
+Generation  25
+Best Cost 1043283405.6228198
+Generation  26
+Best Cost 1043283405.6228198
+Generation  27
+Best Cost 1043283405.6228198
+Generation  28
+Best Cost 1032612341.8132946
+Generation  29
+Best Cost 1032612341.8132946
