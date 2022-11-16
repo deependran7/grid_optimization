@@ -64,6 +64,7 @@ class Binary_Genetic_Algorithm():
                     childern.append(c)
             self.pop = childern
             print("Generation ", gen)
+            print("Best Bits", self.best_bits)
             print("Best Cost", self.best_eval)
         
         return self.best_bits,self.best_eval
